@@ -2,6 +2,10 @@
 
 A REST API built using **Node.js, Express.js, and MongoDB** for managing restaurants and their menu items.
 
+## Render Live link 
+
+https://restaurant-management-api-tcrs.onrender.com
+
 ## Features
 
 * User registration and login
